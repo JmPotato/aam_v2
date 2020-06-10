@@ -6,6 +6,13 @@ aam_v2 is the successor of [Aam](https://github.com/JmPotato/Aam) which created 
 
 Make sure you have installed `yarn` and `gatsby-cli` first. You can check this [Quick Start Guide](https://www.gatsbyjs.org/docs/quick-start) as a reference.
 
+```javascript
+// gatsby-config.js
+siteMetadata: {
+    title: `All about me`, // Set your site name here
+}
+```
+
 Create a index/home page by using `type: home` like this:
 
 ```markdown
