@@ -7,6 +7,7 @@
 module.exports = {
   siteMetadata: {
     title: `All about me`,
+    siteURL: `https://about.ipotato.me/`,
   },
   plugins: [
     {
@@ -17,6 +18,22 @@ module.exports = {
       },
     },
     `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+        trackingId: "UA-XXXXXXXXX-X",
+      },
+    },
+    {
+      resolve: "gatsby-plugin-manifest",
+      options: {
+        name: "All about me",
+        short_name: "Aam",
+        start_url: "/",
+        icon: "src/images/icon.png",
+      },
+    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-typography`,
