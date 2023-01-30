@@ -1,13 +1,13 @@
 ---
 title: "Hi! I'm Haizhi Geng, aka JmPotato, JmP0tato, JmPotat0 etc..."
-date: "2020-06-10"
+date: "2023-01-30"
 type: home
 name: Home
 ---
 
 Some tags I put on me: freelance photographer, blogger and, of course, developer.
 
-Find me on [Blog](https://ipotato.me) | [GitHub](https://github.com/JmPotato) | [Twitter](https://twitter.com/JmPotat0).
+Find me on [my blog](https://ipotato.me) | [GitHub](https://github.com/JmPotato) | [Twitter](https://twitter.com/JmPotat0).
 
 Here is my full résumé:
 
@@ -17,11 +17,11 @@ Here is my full résumé:
 
 ## Creeds
 
-To the life:
+To life:
 
 > Witness and Preach the Life.
 
-To the country:
+To politics:
 
 > Love its people, but never trust its government. Believe in revolution rather than evolution.
 
